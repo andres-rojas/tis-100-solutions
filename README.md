@@ -1,4 +1,4 @@
-# tis-100-solutions
+# TIS-100 Solutions
 This repo is just a way for me to share some of the solutions that I
 came up with while playing [Zachtronics](http://www.zachtronics.com/)'s
 [TIS-100](http://www.zachtronics.com/tis-100/).
