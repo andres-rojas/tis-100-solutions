@@ -16,8 +16,8 @@
 ### [`21340.0` - `1ST SOLUTION`](21340.0.txt)
 
 | Cycles | Nodes | Instructions |
-| ------ | ----- | ------------ |
-|   283  |   6   |      20      |
+| :----: | :---: | :----------: |
+|  283   |   6   |      20      |
 
 ![21340.0](21340.0.jpg?raw=true)
 
@@ -26,8 +26,8 @@
 **Goal**: _Solve SIGNAL COMPARATOR without using the JGZ, JLZ, JEZ, or JNZ instructions._
 
 | Cycles | Nodes | Instructions |
-| ------ | ----- | ------------ |
-|   268  |   6   |      36      |
+| :----: | :---: | :----------: |
+|  268   |   6   |      36      |
 
 ![21340.1](21340.1.jpg?raw=true)
 

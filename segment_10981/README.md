@@ -13,8 +13,8 @@
 ### [`10981.0` - `1ST SOLUTION`](10981.0.txt)
 
 | Cycles | Nodes | Instructions |
-| ------ | ----- | ------------ |
-|   160  |   4   |       6      |
+| :----: | :---: | :----------: |
+|  160   |   4   |       6      |
 
 ![10981.0](10981.0.jpg?raw=true)
 
@@ -23,7 +23,7 @@
 **Goal:** _Solve SIGNAL AMPLIFIER in fewer than 100 cycles._
 
 | Cycles | Nodes | Instructions |
-| ------ | ----- | ------------ |
+| :----: | :---: | :----------: |
 |   84   |   5   |      10      |
 
 ![10981.1](10981.1.jpg?raw=true)

@@ -14,7 +14,7 @@
 ### [`00150.0` - `1ST SOLUTION`](00150.0.txt)
 
 | Cycles | Nodes | Instructions |
-| ------ | ----- | ------------ |
+| :----: | :---: | :----------: |
 |   83   |   8   |       8      |
 
 ![00150.0](00150.0.jpg?raw=true)
@@ -24,7 +24,7 @@
 **Goal:** _Solve SELF-TEST DIAGNOSTIC in over 100,000 cycles._
 
 | Cycles | Nodes | Instructions |
-| ------ | ----- | ------------ |
+| :----: | :---: | :----------: |
 | 117002 |   8   |      12      |
 
 ![00150.1](00150.1.jpg?raw=true)

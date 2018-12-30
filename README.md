@@ -22,3 +22,4 @@ and subsequently tried to either:
 If you wandered over here somehow, I'd encourage you to share your own
 solutions, and feel free to submit PRs if you'd like to optimize my
 solutions.
+
