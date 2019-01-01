@@ -1,0 +1,35 @@
+@0
+## SIMPLER
+
+@1
+MOV UP, DOWN
+
+@2
+
+
+@3
+
+
+@4
+MOV 0, DOWN
+
+>: MOV UP, ACC
+MOV ACC, DOWN
+JGZ >
+
+MOV DOWN, NIL
+
+<: MOV DOWN, ACC
+MOV ACC, RIGHT
+JGZ <
+
+@5
+MOV LEFT, DOWN
+
+@6
+
+
+@7
+MOV UP, DOWN
+
+@8
