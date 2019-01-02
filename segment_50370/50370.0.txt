@@ -1,0 +1,44 @@
+@0
+## 1ST SOLUTION
+
+@1
+
+
+@2
+
+
+@3
+
+
+@4
+
+
+@5
+
+
+@6
+
+
+@7
+
+
+@8
+
+
+@9
+MOV NIL, DOWN
+
+MOV ACC, DOWN
+MOV 30, ACC
+
+LOOP: MOV 3 DOWN
+SUB 1
+JNZ LOOP
+
+MOV -1, DOWN
+
+SWP
+ADD 1
+SAV
+
+@10
